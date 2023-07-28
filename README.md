@@ -12,8 +12,8 @@ From Hello World to Webserver interaktion
 + [Lizenz](#Lizenz)
   
 ## 📖 datebook <a name = "datebook"></a>
-![github/NapoII](README_img\ESP8266_D1_Mini.png)
-![github/NapoII](README_img\d1_mini_pinout_1.png)
+![ESP8266_D1_Mini](https://raw.githubusercontent.com/NapoII/ESP8266WiFi_Start/main/README_img/ESP8266_D1_Mini.png)
+![d1_mini_pinout_1](https://raw.githubusercontent.com/NapoII/ESP8266WiFi_Start/main/README_img/d1_mini_pinout_1.png)
 
 
 | General Properties       | https://amzn.eu/d/aDcUB0k                          |
@@ -67,9 +67,11 @@ Name: `ESP_Test`
 * 5. Take a desired `main.cpp` file from the git and copy it into the `src` folder.
 * 8. Connect the ESP to your computer with a USB port.
 * 9. Upload the Projekt to the ESP.
-  ![github/NapoII](README_img\ESp_upload.png)
+     
+  ![ESp_upload.png](https://raw.githubusercontent.com/NapoII/ESP8266WiFi_Start/main/README_img/ESp_upload.png)
 * 10. Open the serial console to see the output of the ESP.
-  ![github/NapoII](README_img\serial.png)
+      
+  ![serial](https://raw.githubusercontent.com/NapoII/ESP8266WiFi_Start/main/README_img/serial.png)
 * 11. ☕ Now that the base is in place Treat yourself to a cup of tea.
 
 ## 💭 How it works <a name = "Use"></a>
