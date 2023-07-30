@@ -82,11 +82,11 @@ Push the desired ccp file into the ESP for testing
    - "Hello LED" is a basic Arduino project that demonstrates LED control using the Visual Studio Code (VSS) platform.
    - The program increments a counter, prints a message with the count on the serial monitor, and blinks the LED every two seconds.
 
-2. [Hello WiFi](./ESP8266WiFi_Start/[2]Hello%20WiFi)
+2. [Hello WiFi](https://github.com/NapoII/ESP8266WiFi_Start/tree/main/ESP8266WiFi_Start/%5B2%5D%20Hello%20WiFi)
    - "Hello WiFi" is an Arduino project for the ESP8266 board using Visual Studio Code (VSS).
    - It connects the board to a WiFi network, blinks the onboard LED once, and displays the connection status and local IP address on the serial monitor.
 
-3. [Hello Webhost](./ESP8266WiFi_Start/[2]Hello%20Webhost)
+3. [Hello Webhost](https://github.com/NapoII/ESP8266WiFi_Start/tree/main/ESP8266WiFi_Start/%5B3%5D%20Hello%20Webhost)
    - "Hello Webhost" is an Arduino project using the ESP8266 board and Visual Studio Code (VSS) to create a web server.
    - The web server displays a start page with options to "Print Hello Status" and "Force a LED test," and it enables mDNS to access the page via the hostname "helloESP.local."
 
